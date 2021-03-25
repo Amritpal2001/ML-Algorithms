@@ -1,0 +1,7 @@
+Sky,Temp,Humid,Wind,Water,Goes
+Sunny,Warm,Normal,Strong,Warm,Yes
+Sunny,Warm,High,Strong,Warm,Yes
+Rainy,Cold,High,Strong,Warm,No
+Sunny,Warm,High,Strong,Cool,Yes
+Sunny,Warm,High,Weak,Warm,No
+Cloudy,Cold,Low,Weak,Cool,No
